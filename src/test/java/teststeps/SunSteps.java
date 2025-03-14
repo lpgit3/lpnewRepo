@@ -15,10 +15,7 @@ public class SunSteps {
 	
 		public  SuncorpOBJ google;
 		public WebDriver driver;
-		//public  CommerceObjectLogin cmrcelogin;	
-
-
-		//// gooogle search ////////////////////////////////
+		
 
 		@Given("user launch a chrome browser")
 		public void user_launch_a_chrome_browser() {
