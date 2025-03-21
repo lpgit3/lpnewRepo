@@ -17,10 +17,14 @@ public class SunSteps extends Baseclass {
 	//public static Logger log;
 		public  SuncorpOBJ google;
 		public WebDriver driver;
+<<<<<<< HEAD
 		//public  CommerceObjectLogin cmrcelogin;	
       public Baseclass bsclass;
 
 		//// gooogle search ////////////////////////////////
+=======
+		
+>>>>>>> 7bfad8eb1060e985d8d63b8b7282ce0ea61ae928
 
 		@Given("user launch a chrome browser")
 		public void user_launch_a_chrome_browser() {
