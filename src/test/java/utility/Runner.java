@@ -12,9 +12,9 @@ import io.cucumber.junit.CucumberOptions;
 	//	features={".//feature/login.feature",".//feature/google.feature"},
 		glue= "teststeps", 
 		dryRun=false,
-		monochrome=true
-		//plugin= {"pretty","junit:target/report/junitReport.xml","html:target/report/htmlReport.html","json:target/report/jsonReport.json"},
-		//tags="@IntPaymentandTravel"
+		monochrome=false,
+		plugin= {"pretty","html:C:\\Users\\lppaw\\Desktop\\cucumber 2\\cucumbber\\Report/htmlreport.html","json:C:\\Users\\lppaw\\Desktop\\cucumber 2\\cucumbber\\Report/jsonReport.json"},
+		tags="@sanity"
 		
 		)
 
