@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features="C:\\Users\\lppaw\\Desktop\\cucumber 2\\cucumbber\\FeatureFile\\suncorp.feature",
+		features="//C://Users//lppaw//Desktop//cucumber 2//cucumbber//FeatureFile//suncorp.feature",
 	//	features=".//feature/",
 	//	features={".//feature/login.feature",".//feature/google.feature"},
 		glue= "teststeps", 
@@ -17,7 +17,7 @@ import io.cucumber.junit.CucumberOptions;
 		tags="@sanity"
 		
 		)
-
+ 
 
 
 
