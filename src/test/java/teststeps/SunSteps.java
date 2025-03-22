@@ -53,6 +53,7 @@ public class SunSteps extends Baseclass {
 		    driver.close();
 		    driver.quit();
 		    log.info("chrome closed and quit");
+		    log.info("========================================================");
 		}
 	
 	}
