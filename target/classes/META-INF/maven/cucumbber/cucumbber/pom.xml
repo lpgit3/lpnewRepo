@@ -108,6 +108,12 @@
     <artifactId>slf4j-log4j12</artifactId>
     <version>1.6.4</version>
 </dependency>
+  <!-- https://mvnrepository.com/artifact/com.opera/operadriver -->
+<dependency>
+    <groupId>com.opera</groupId>
+    <artifactId>operadriver</artifactId>
+    <version>1.5</version>
+</dependency>
   
   
   
