@@ -109,3 +109,230 @@
 [INFO ] 2025-03-23 11:03:59.162 [main] SunSteps - facebook URL entered
 [INFO ] 2025-03-23 11:04:00.564 [main] SunSteps - chrome closed and quit
 [INFO ] 2025-03-23 11:04:00.564 [main] SunSteps - ========================================================
+[INFO ] 2025-03-23 11:09:22.704 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-03-23 11:09:27.489 [main] SunSteps - URL entered
+[INFO ] 2025-03-23 11:09:27.982 [main] SunSteps - captured screenshot At : \cucumbber\Screenshot\gogglescreenshot.png
+[INFO ] 2025-03-23 11:09:27.982 [main] SunSteps - facebook URL entered
+[INFO ] 2025-03-23 11:09:29.381 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-03-23 11:09:29.381 [main] SunSteps - ========================================================
+[INFO ] 2025-03-23 11:13:27.961 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-03-23 11:13:32.368 [main] SunSteps - URL entered
+[INFO ] 2025-03-23 11:13:32.920 [main] SunSteps - captured screenshot At : \cucumbber\Screenshot\gogglescreenshot.png
+[INFO ] 2025-03-23 11:13:32.920 [main] SunSteps - facebook URL entered
+[INFO ] 2025-03-23 11:13:34.324 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-03-23 11:13:34.325 [main] SunSteps - ========================================================
+[INFO ] 2025-04-05 10:55:51.262 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 10:55:53.661 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 10:55:54.242 [main] SunSteps - captured screenshot At : \cucumbber\Screenshot\gogglescreenshot.png
+[INFO ] 2025-04-05 10:55:54.242 [main] SunSteps - facebook URL entered
+[INFO ] 2025-04-05 10:55:55.811 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-05 10:55:55.811 [main] SunSteps - ========================================================
+[INFO ] 2025-04-05 11:12:33.326 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 11:12:35.784 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 11:12:36.352 [main] SunSteps - captured screenshot At : \cucumbber\Screenshot\gogglescreenshot.png
+[INFO ] 2025-04-05 11:12:36.352 [main] SunSteps - facebook URL entered
+[INFO ] 2025-04-05 11:12:37.912 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-05 11:12:37.912 [main] SunSteps - ========================================================
+[INFO ] 2025-04-05 11:12:39.687 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 11:12:43.104 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 11:42:00.245 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 11:42:04.812 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 11:42:04.841 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 11:43:21.438 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 11:43:25.121 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 11:43:25.142 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 11:48:16.431 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 11:48:22.205 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 11:48:22.228 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 11:49:33.495 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 11:49:37.286 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 11:49:37.305 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 11:51:50.807 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 11:51:54.882 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 11:51:54.903 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 13:58:17.731 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 13:58:21.484 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 13:58:21.506 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 13:58:23.426 [main] SunSteps - user entered orangeHRM valid username as : Admin
+[INFO ] 2025-04-05 13:58:23.716 [main] SunSteps - user entered orangeHRM valid password as : admin123
+[INFO ] 2025-04-05 13:58:25.194 [main] SunSteps - user clicked on orangeHRM login button 
+[INFO ] 2025-04-05 13:58:25.215 [main] SunSteps - user landed orangeHRM home page title : OrangeHRM
+[INFO ] 2025-04-05 13:58:25.434 [main] SunSteps - captured screenshot of orangeHRM Home page : C:\Users\lppaw\Desktop\cucumber 2\cucumbber\Screenshot\OrangeHRMHomepage.png
+[INFO ] 2025-04-05 13:58:26.922 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-05 13:58:26.923 [main] SunSteps - ========================================================
+[INFO ] 2025-04-05 14:00:00.200 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 14:00:03.610 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 14:00:03.633 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 14:00:04.694 [main] SunSteps - user entered orangeHRM valid username as : Admin
+[INFO ] 2025-04-05 14:00:04.921 [main] SunSteps - user entered orangeHRM valid password as : admin123
+[INFO ] 2025-04-05 14:00:06.301 [main] SunSteps - user clicked on orangeHRM login button 
+[INFO ] 2025-04-05 14:00:06.325 [main] SunSteps - user landed orangeHRM home page title : OrangeHRM
+[INFO ] 2025-04-05 14:00:06.537 [main] SunSteps - captured screenshot of orangeHRM Home page : C:\Users\lppaw\Desktop\cucumber 2\cucumbber\Screenshot\OrangeHRMHomepage.png
+[INFO ] 2025-04-05 14:00:08.009 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-05 14:00:08.009 [main] SunSteps - ========================================================
+[INFO ] 2025-04-05 14:04:03.663 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 14:04:07.103 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 14:04:07.127 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 14:04:09.074 [main] SunSteps - user entered orangeHRM valid username as : Admin
+[INFO ] 2025-04-05 14:04:09.371 [main] SunSteps - user entered orangeHRM valid password as : admin123
+[INFO ] 2025-04-05 14:04:10.704 [main] SunSteps - user clicked on orangeHRM login button 
+[INFO ] 2025-04-05 14:04:10.725 [main] SunSteps - user landed orangeHRM home page title : OrangeHRM
+[INFO ] 2025-04-05 14:04:10.951 [main] SunSteps - captured screenshot of orangeHRM Home page : C:\Users\lppaw\Desktop\cucumber 2\cucumbber\Screenshot\OrangeHRMHomepage.png
+[INFO ] 2025-04-05 14:04:12.512 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-05 14:04:12.512 [main] SunSteps - ========================================================
+[INFO ] 2025-04-05 14:05:11.407 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 14:05:14.925 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 14:05:14.951 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 14:05:16.841 [main] SunSteps - user entered orangeHRM valid username as : Admin
+[INFO ] 2025-04-05 14:05:17.100 [main] SunSteps - user entered orangeHRM valid password as : admin123
+[INFO ] 2025-04-05 14:05:18.513 [main] SunSteps - user clicked on orangeHRM login button 
+[INFO ] 2025-04-05 14:05:18.530 [main] SunSteps - user landed orangeHRM home page title : OrangeHRM
+[INFO ] 2025-04-05 14:05:18.769 [main] SunSteps - captured screenshot of orangeHRM Home page : C:\Users\lppaw\Desktop\cucumber 2\cucumbber\Screenshot\OrangeHRMHomepage.png
+[INFO ] 2025-04-05 14:06:54.448 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 14:06:57.826 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 14:06:57.850 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 14:06:59.685 [main] SunSteps - user entered orangeHRM valid username as : Admin
+[INFO ] 2025-04-05 14:06:59.882 [main] SunSteps - user entered orangeHRM valid password as : admin123
+[INFO ] 2025-04-05 14:07:01.376 [main] SunSteps - user clicked on orangeHRM login button 
+[INFO ] 2025-04-05 14:07:01.388 [main] SunSteps - user landed orangeHRM home page title : OrangeHRM
+[INFO ] 2025-04-05 14:07:01.622 [main] SunSteps - captured screenshot of orangeHRM Home page : C:\Users\lppaw\Desktop\cucumber 2\cucumbber\Screenshot\OrangeHRMHomepage.png
+[INFO ] 2025-04-05 14:08:00.715 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 14:08:04.440 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 14:08:04.466 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 14:08:05.146 [main] SunSteps - user entered orangeHRM valid username as : Admin
+[INFO ] 2025-04-05 14:08:05.350 [main] SunSteps - user entered orangeHRM valid password as : admin123
+[INFO ] 2025-04-05 14:08:06.747 [main] SunSteps - user clicked on orangeHRM login button 
+[INFO ] 2025-04-05 14:08:06.764 [main] SunSteps - user landed orangeHRM home page title : OrangeHRM
+[INFO ] 2025-04-05 14:08:06.957 [main] SunSteps - captured screenshot of orangeHRM Home page : C:\Users\lppaw\Desktop\cucumber 2\cucumbber\Screenshot\OrangeHRMHomepage.png
+[INFO ] 2025-04-05 14:08:08.490 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-05 14:08:08.490 [main] SunSteps - ========================================================
+[INFO ] 2025-04-05 14:08:58.522 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 14:09:01.804 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 14:09:01.819 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 14:09:02.584 [main] SunSteps - user entered orangeHRM valid username as : Admin
+[INFO ] 2025-04-05 14:09:02.799 [main] SunSteps - user entered orangeHRM valid password as : admin123
+[INFO ] 2025-04-05 14:09:04.128 [main] SunSteps - user clicked on orangeHRM login button 
+[INFO ] 2025-04-05 14:09:04.143 [main] SunSteps - user landed orangeHRM home page title : OrangeHRM
+[INFO ] 2025-04-05 14:09:04.327 [main] SunSteps - captured screenshot of orangeHRM Home page : C:\Users\lppaw\Desktop\cucumber 2\cucumbber\Screenshot\OrangeHRMHomepage.png
+[INFO ] 2025-04-05 14:09:05.782 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-05 14:09:05.783 [main] SunSteps - ========================================================
+[INFO ] 2025-04-05 17:55:59.967 [main] SunSteps - Enterd URL : https://demoqa.com/alerts
+[INFO ] 2025-04-05 17:55:59.991 [main] SunSteps - Page tittle : DEMOQA
+[INFO ] 2025-04-05 17:56:03.509 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 17:56:05.681 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 17:56:06.181 [main] SunSteps - captured screenshot At : \cucumbber\Screenshot\gogglescreenshot.png
+[INFO ] 2025-04-05 17:56:06.181 [main] SunSteps - facebook URL entered
+[INFO ] 2025-04-05 17:56:07.598 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-05 17:56:07.598 [main] SunSteps - ========================================================
+[INFO ] 2025-04-05 17:56:20.569 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-05 17:56:24.158 [main] SunSteps - URL entered
+[INFO ] 2025-04-05 17:56:24.178 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-05 17:56:24.695 [main] SunSteps - user entered orangeHRM valid username as : Admin
+[INFO ] 2025-04-05 17:56:24.813 [main] SunSteps - user entered orangeHRM valid password as : admin123
+[INFO ] 2025-04-05 17:56:26.202 [main] SunSteps - user clicked on orangeHRM login button 
+[INFO ] 2025-04-05 17:56:26.217 [main] SunSteps - user landed orangeHRM home page title : OrangeHRM
+[INFO ] 2025-04-05 17:56:26.347 [main] SunSteps - captured screenshot of orangeHRM Home page : C:\Users\lppaw\Desktop\cucumber 2\cucumbber\Screenshot\OrangeHRMHomepage.png
+[INFO ] 2025-04-05 17:56:27.735 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-05 17:56:27.735 [main] SunSteps - ========================================================
+[INFO ] 2025-04-20 22:14:16.424 [main] SunSteps - chrome launched successsfully
+[INFO ] 2025-04-20 22:14:20.605 [main] SunSteps - URL entered
+[INFO ] 2025-04-20 22:14:20.621 [main] SunSteps - orangeHRM Login Page title : OrangeHRM
+[INFO ] 2025-04-20 22:14:21.559 [main] SunSteps - user entered orangeHRM valid username as : Admin
+[INFO ] 2025-04-20 22:14:21.731 [main] SunSteps - user entered orangeHRM valid password as : admin123
+[INFO ] 2025-04-20 22:14:23.090 [main] SunSteps - user clicked on orangeHRM login button 
+[INFO ] 2025-04-20 22:14:23.106 [main] SunSteps - user landed orangeHRM home page title : OrangeHRM
+[INFO ] 2025-04-20 22:14:23.269 [main] SunSteps - captured screenshot of orangeHRM Home page : C:\Users\lppaw\Desktop\cucumber 2\cucumbber\Screenshot\OrangeHRMHomepage.png
+[INFO ] 2025-04-20 22:14:24.764 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-04-20 22:14:24.764 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 20:16:06.332 [main] SunSteps - Enterd URL : https://demoqa.com/alerts
+[INFO ] 2025-05-05 20:16:09.711 [main] SunSteps - Page tittle : DEMOQA
+[INFO ] 2025-05-05 20:23:44.204 [main] SunSteps - Enterd URL : https://demoqa.com/alerts
+[INFO ] 2025-05-05 20:23:44.230 [main] SunSteps - Page tittle : DEMOQA
+[INFO ] 2025-05-05 20:23:52.185 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:06:57.791 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:10:18.105 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:13:44.774 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:21:43.791 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:21:43.915 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 21:21:43.935 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 21:21:44.358 [main] SunSteps - captured sceenshot of OpenPop up : ber\Screenshot\openAlert.png
+[INFO ] 2025-05-05 21:21:44.358 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 21:21:44.435 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 21:21:44.708 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 21:21:44.709 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 21:24:46.558 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:24:46.678 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 21:24:46.695 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 21:26:26.755 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:26:26.866 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 21:26:26.884 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 21:27:49.826 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:27:49.951 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 21:27:49.968 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 21:29:03.484 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:29:03.601 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 21:29:03.620 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 21:30:16.448 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:30:16.556 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 21:30:16.572 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 21:30:16.592 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 21:30:16.653 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 21:30:16.891 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 21:30:16.891 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 21:33:21.675 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:33:21.817 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 21:33:21.843 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 21:33:21.878 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 21:33:21.969 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 21:33:22.347 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 21:33:22.347 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 21:39:43.075 [main] SunSteps - Enterd URL : https://demoqa.com/alerts
+[INFO ] 2025-05-05 21:39:43.104 [main] SunSteps - Page tittle : DEMOQA
+[INFO ] 2025-05-05 21:39:43.200 [main] SunSteps - succesfully clicked on alert button 
+[INFO ] 2025-05-05 21:39:49.264 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 21:39:49.359 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 21:39:49.371 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 21:39:49.387 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 21:39:49.452 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 21:39:49.726 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 21:39:49.726 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 21:39:56.470 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:25:30.111 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:26:05.930 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:31:41.028 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:33:17.179 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:34:41.433 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:34:41.707 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-05 22:34:41.732 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-05 22:34:41.753 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-05 22:34:42.038 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-05 22:34:42.453 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:34:42.454 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:36:02.143 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:36:02.377 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-05 22:36:02.401 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-05 22:36:02.422 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-05 22:36:02.488 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-05 22:36:02.888 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:36:02.888 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:36:48.256 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:36:48.534 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-05 22:36:48.555 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-05 22:36:48.583 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-05 22:36:48.642 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-05 22:36:48.997 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:36:48.997 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:38:07.599 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:38:07.816 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 22:38:07.850 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 22:38:07.899 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 22:38:08.293 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 22:38:08.712 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:38:08.713 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:38:14.245 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:38:14.496 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-05 22:38:14.504 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-05 22:38:14.518 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-05 22:38:14.562 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-05 22:38:14.857 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:38:14.857 [main] SunSteps - ========================================================
