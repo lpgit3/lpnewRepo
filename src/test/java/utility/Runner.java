@@ -7,14 +7,14 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features="//C://Users//lppaw//Desktop//cucumber 2//cucumbber//FeatureFile//demoqa.feature",
+		features="//C://Users//lppaw//Desktop//cucumber 2//cucumbber//FeatureFile//testmo.feature",
 	//	features=".//feature/",
 	//	features={".//feature/login.feature",".//feature/google.feature"},
-		glue= "teststeps", 
+		glue= "teststeps", 	
 		dryRun=false,
-		monochrome=false,
+		monochrome=false, 
 		plugin= {"pretty","html:C:\\Users\\lppaw\\Desktop\\cucumber 2\\cucumbber\\Report/htmlreport.html","json:C:\\Users\\lppaw\\Desktop\\cucumber 2\\cucumbber\\Report/jsonReport.json"},
-		tags="@alertpopUp or @confirmAlert"
+		tags="@addTest"
 		
 		)
  

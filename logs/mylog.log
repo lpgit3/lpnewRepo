@@ -336,3 +336,101 @@
 [INFO ] 2025-05-05 22:38:14.562 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
 [INFO ] 2025-05-05 22:38:14.857 [main] SunSteps - chrome closed and quit
 [INFO ] 2025-05-05 22:38:14.857 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:50:28.641 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:50:28.930 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 22:50:28.985 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 22:50:29.031 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 22:50:29.196 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 22:50:29.669 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:50:29.669 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:50:35.823 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:50:36.067 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-05 22:50:36.085 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-05 22:50:36.107 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-05 22:50:36.170 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-05 22:50:36.617 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:50:36.617 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:52:25.882 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:52:26.033 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 22:52:26.052 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 22:52:26.077 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 22:52:26.152 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 22:52:26.431 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:52:26.432 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:52:32.512 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:52:32.671 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-05 22:52:32.681 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-05 22:52:32.699 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-05 22:52:32.760 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-05 22:52:33.101 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:52:33.101 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:53:41.744 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:53:41.992 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 22:53:42.033 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 22:53:42.080 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 22:53:42.479 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 22:53:42.940 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:53:42.942 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:53:49.358 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:53:49.525 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-05 22:53:49.533 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-05 22:53:49.544 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-05 22:53:49.591 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-05 22:53:49.866 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:53:49.867 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:55:59.873 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:56:00.067 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 22:56:00.087 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 22:56:00.112 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 22:56:00.183 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 22:56:00.454 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:56:00.454 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:56:06.715 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:56:06.885 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-05 22:56:06.893 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-05 22:56:06.921 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-05 22:56:06.979 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-05 22:56:07.273 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:56:07.273 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:58:06.706 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:58:06.886 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-05 22:58:06.905 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-05 22:58:06.927 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-05 22:58:07.003 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-05 22:58:07.251 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:58:07.252 [main] SunSteps - ========================================================
+[INFO ] 2025-05-05 22:58:13.151 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-05 22:58:13.330 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-05 22:58:13.345 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-05 22:58:13.362 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-05 22:58:13.418 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-05 22:58:13.684 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-05 22:58:13.684 [main] SunSteps - ========================================================
+[INFO ] 2025-05-07 17:21:23.407 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-07 17:21:23.596 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-07 17:21:23.614 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-07 17:21:23.639 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-07 17:21:23.702 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-07 17:21:24.102 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-07 17:21:24.102 [main] SunSteps - ========================================================
+[INFO ] 2025-05-07 17:21:31.745 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-07 17:21:31.949 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-07 17:21:31.958 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-07 17:21:31.972 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-07 17:21:32.014 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-07 17:21:32.409 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-07 17:21:32.409 [main] SunSteps - ========================================================
+[INFO ] 2025-05-08 13:20:12.475 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-08 13:20:12.667 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-08 13:20:12.684 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-08 13:20:12.716 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-08 13:20:12.813 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-08 13:20:13.284 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-08 13:20:13.284 [main] SunSteps - ========================================================
+[INFO ] 2025-05-08 13:20:20.239 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-08 13:20:20.389 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-08 13:20:20.397 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-08 13:20:20.410 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-08 13:20:20.477 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-08 13:20:20.763 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-08 13:20:20.763 [main] SunSteps - ========================================================
