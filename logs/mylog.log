@@ -434,3 +434,20 @@
 [INFO ] 2025-05-08 13:20:20.477 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
 [INFO ] 2025-05-08 13:20:20.763 [main] SunSteps - chrome closed and quit
 [INFO ] 2025-05-08 13:20:20.763 [main] SunSteps - ========================================================
+[INFO ] 2025-05-10 17:30:04.414 [main] SunSteps - Enterd URL : https://demoqa.com/alerts
+[INFO ] 2025-05-10 17:30:04.455 [main] SunSteps - Page tittle : DEMOQA
+[INFO ] 2025-05-10 17:30:04.644 [main] SunSteps - succesfully clicked on alert button 
+[INFO ] 2025-05-10 17:30:11.480 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-10 17:30:11.581 [main] SunSteps - Clicked on click me Button to open a popup
+[INFO ] 2025-05-10 17:30:11.594 [main] SunSteps - Available Opened pop up text : I am an alert box!
+[INFO ] 2025-05-10 17:30:11.612 [main] SunSteps - clicked on Ok button of Alert Box
+[INFO ] 2025-05-10 17:30:11.694 [main] SunSteps - Available Pop up output : You selected alert popup
+[INFO ] 2025-05-10 17:30:12.079 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-10 17:30:12.080 [main] SunSteps - ========================================================
+[INFO ] 2025-05-10 17:30:18.640 [main] SunSteps - Enterd URL : https://www.hyrtutorials.com/p/alertsdemo.html
+[INFO ] 2025-05-10 17:30:18.762 [main] SunSteps - clicked on click me button to open a confirm alert box
+[INFO ] 2025-05-10 17:30:18.769 [main] SunSteps - Text present on confirm alert : Press a button!
+[INFO ] 2025-05-10 17:30:18.778 [main] SunSteps - clicked on OK button present on Confirm alert box
+[INFO ] 2025-05-10 17:30:18.815 [main] SunSteps - Output result of confirm alert box : You pressed OK in confirmation popup
+[INFO ] 2025-05-10 17:30:19.040 [main] SunSteps - chrome closed and quit
+[INFO ] 2025-05-10 17:30:19.040 [main] SunSteps - ========================================================

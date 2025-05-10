@@ -1,5 +1,6 @@
 package teststeps;
 
+import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 
@@ -32,29 +33,22 @@ public class TestmoSteps {
 	public WebDriver driver;
 
 	public TestmoObject test;
-
+public Baseclass base;
 
 
 
 
 	@Given("user launch a testmoEdge browser")
 
-	public void user_launch_a_testmo_edge_browser() {
-
-		WebDriverManager.chromedriver().setup();
-
-		driver= new ChromeDriver();
+	public void user_launch_a_testmo_edge_browser() throws IOException {
+	
 
 		test= new TestmoObject(driver);
 
-		driver.manage().window().maximize();
-
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		System.out.println("user_launch_a_testmo_edge_browser successfully");
 
 	}
-
-
-
 
 
 	@When("user enter Testmo login URL {string}")
@@ -202,10 +196,7 @@ public class TestmoSteps {
 	@Then("close testmo browser")
 
 	public void close_testmo_browser() {
-
-		driver.close();
-
-		driver.quit();
+System.out.println("browser closed successfully");
 
 	}
 

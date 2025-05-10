@@ -1,11 +1,11 @@
 package utility;
 
 import org.junit.runner.RunWith;
-import org.testng.annotations.DataProvider;
+//import org.testng.annotations.DataProvider;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
-import io.cucumber.testng.AbstractTestNGCucumberTests;
+//import io.cucumber.testng.AbstractTestNGCucumberTests;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
@@ -23,7 +23,7 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 
 
 
-public class TestngRunner extends AbstractTestNGCucumberTests {
+public class TestngRunner  {
 
 }
 	

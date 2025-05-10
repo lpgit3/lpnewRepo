@@ -51,4 +51,4 @@ Feature: Login to Testmo
     Examples: 
       | testcaseName                         | testcaseDescription         | testcaseExpectedResult                     | Estimate |
       | enter valid user name                | user enter a valid username | user should able to enter a valid username |        1 |
-     |enter a valid password|
+     

@@ -14,7 +14,7 @@ import io.cucumber.junit.CucumberOptions;
 		dryRun=false,
 		monochrome=false, 
 		plugin= {"pretty","html:C:\\Users\\lppaw\\Desktop\\cucumber 2\\cucumbber\\Report/htmlreport.html","json:C:\\Users\\lppaw\\Desktop\\cucumber 2\\cucumbber\\Report/jsonReport.json"},
-		tags="@addTest"
+		tags="@addTest" 
 		
 		)
  
