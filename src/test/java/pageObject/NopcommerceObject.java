@@ -17,8 +17,17 @@ public class NopcommerceObject {
 	@FindBy(id="ConfirmPassword") WebElement confipass;
 	@FindBy(id="register-button") WebElement rbutton;
 	
+	public void clickon_register() {
+		register.click();
+	}
 	
+	public String getregisterTittle() {
+		return regttl.getText();
+	}
 	
+	public void selectMaleGender() {
+		male.click();
+	}
 	
 	
 	
