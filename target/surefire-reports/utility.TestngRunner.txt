@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: utility.TestngRunner
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! -- in utility.TestngRunner
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! -- in utility.TestngRunner
 utility.TestngRunner.initializationError -- Time elapsed: 0 s <<< ERROR!
 java.lang.IllegalArgumentException: path must exist: C:\Users\lppaw\Desktop\cucumber 2\cucumbber\demoqa.feature
 	at io.cucumber.core.resource.PathScanner.findResourcesForPath(PathScanner.java:49)
