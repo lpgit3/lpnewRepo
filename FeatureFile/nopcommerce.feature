@@ -2,8 +2,8 @@ Feature: nopcommerce register new user and login
 
   Scenario Outline: validate register new user to nopcommerce
     Given user launch a browser
-    When user enter an URL "<url>"
-    Then user should land on nopcommerce login"<pagettitle>"
+    When user enter an nopcommerceURL "<url>"
+    Then user should land on nopcommerce login pagettl "<pagettitle>"
     And click on Register
     Then register title should available
     And select male as gender

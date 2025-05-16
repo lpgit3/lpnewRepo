@@ -17,13 +17,42 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.io.FileHandler;
+import org.openqa.selenium.support.PageFactory;
 
 public class Baseclass {
 	public static WebDriver driver;
+	public  String browser="chrome";
  static Properties prop;
  static String path="C:\\Users\\lppaw\\Desktop\\cucumber 2\\cucumbber\\src\\test\\resources\\config.properties";
  static Logger loger;
  
+ public void launchBrowser(WebDriver ldriver)  {
+	 driver=ldriver;
+	 PageFactory.initElements(driver, this);
+	 
+
+	 switch(browser.toLowerCase()) {
+	 case "chrome":
+		 driver=new ChromeDriver();
+		 break;
+		 
+	 case "edge":
+		 driver=new EdgeDriver();
+		 break;
+		 
+	 case "firefox":
+		 driver=new FirefoxDriver();
+		 break;
+		 
+	default:
+		System.out.println("browser not matched");
+		//return null;
+	 
+	 }
+	 
+//	return driver;
+	 
+ }
 
 
 
